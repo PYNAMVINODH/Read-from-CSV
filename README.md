@@ -34,7 +34,8 @@ print("Number of columns:",len(df.axes[1]))
 ## OUTPUT:
 
 Program file:
-![Screenshot 2023-12-24 132607](https://github.com/Jeshwanthkumarpayyavula/Read-from-CSV/assets/145742402/5cc20fe1-52b7-4b8e-b581-e4c9cc975441)
+![image](https://github.com/PYNAMVINODH/Read-from-CSV/assets/145742678/86a065b8-50d0-4019-9a82-9da6f2d71b1d)
+
 
 Output:
 ![Screenshot 2023-12-24 132810](https://github.com/Jeshwanthkumarpayyavula/Read-from-CSV/assets/145742402/774ebf32-b7bb-40f6-b7aa-17ac5d8dfd0b)
